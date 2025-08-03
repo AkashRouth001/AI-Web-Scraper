@@ -1,5 +1,4 @@
 
-````markdown
 # 🕷️ AI-Powered Web Scraper with Local LLaMA
 
 This project is an **AI-enhanced web scraper** built with Python that can extract structured data from any website based on natural language prompts. It combines **Selenium** for scraping, **BeautifulSoup** for cleaning HTML, and **LangChain + Ollama** to run **open-source LLaMA models locally**, giving you powerful data extraction capabilities without using paid APIs like OpenAI.
@@ -49,7 +48,7 @@ This project is an **AI-enhanced web scraper** built with Python that can extrac
 ```bash
 git clone https://github.com/your-username/AI-Web-Scraper.git
 cd AI-Web-Scraper
-````
+
 
 ### 2. Create a virtual environment
 
